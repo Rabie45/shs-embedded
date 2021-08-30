@@ -1,0 +1,9 @@
+# ignore proteus temp files
+*.pdsbak
+*.workspace
+
+# ignore IDE config
+.vscode/
+
+# ignore compiled files
+out/
