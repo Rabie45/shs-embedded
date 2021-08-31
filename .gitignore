@@ -1,9 +1,12 @@
 # ignore proteus temp files
 *.pdsbak
 *.workspace
-
+*.PWI
 # ignore IDE config
 .vscode/
-
+*.DBK
+nbproject/
 # ignore compiled files
 out/
+build/
+dist/
